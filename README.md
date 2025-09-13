@@ -85,20 +85,8 @@ print(HugeMath.Divide("10", "3", 20))     # 3.33333333333333333333
 
 ---
 
-## 🧪 Testing
-
-Each language version has the same behavior. To verify:
-
-* **C#:** Run with `dotnet run`
-* **Java:** Compile with `javac HugeMath.java` and run with `java Main`
-* **Python:** Run `python test_huge_math.py`
-
----
-
 ## 📜 License
 
-MIT License. Free to use, modify, and distribute.
+GNU Affero General Public License
 
 ---
-
-Do you want me to also add a **badges section** (build status, language icons, etc.) so it looks more “GitHub polished”?
